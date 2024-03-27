@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const BASE_URL1 = 'https://restcountries.com/v3.1/';
-    const p = document.querySelectorAll('p');
     const name = document.querySelector('#name');
     const region = document.querySelector('#region');
     const subregion = document.querySelector('#subregion');
